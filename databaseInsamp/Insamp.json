@@ -1,7 +1,7 @@
 [
 	{
 		"kategori": "Jenis Sampah Berdasarkan Sumber",
-		"background": "#ff0000",
+		"background": "#ffffff",
 		"wordList": [
 			{"kalimat":"sampah hasil dari pencernaan manusia, seperti feses dan urin.", "insampWord":"Sampah dari manusia", "imgURL": "https://raw.githubusercontent.com/ahmadaamin12/InsampFile/filedata/imageInsamp/sampahManusia.jpg"},
 			{"kalimat":"sampah yang diproduksi di kehidupan liar dan melalui proses daur ulang alami, seperti daun-daun kering di hutan yang terurai menjadi tanah.", "insampWord":"Sampah dari alam", "imgURL":"https://raw.githubusercontent.com/ahmadaamin12/InsampFile/filedata/imageInsamp/sampahAlam.jpg"},
@@ -13,7 +13,7 @@
 	},
 	{
 		"kategori": "Jenis Sampah Berdasarkan Sifat",
-		"background": "#0066ff",
+		"background": "#ffffff",
 		"wordList": [
 			{"kalimat":"Sampah organik merupakan sampah yang bisa terurai atau diolah menjadi pupuk kompos. Jenis sampah yang dianggap sebagai organik mencakup sisa makanan, daun kering, sayuran, dan sebagainya.", "insampWord":"Sampah Organik", "imgURL":"https://raw.githubusercontent.com/ahmadaamin12/InsampFile/filedata/imageInsamp/organik.jpg"},
 			{"kalimat":"Sampah anorganik adalah sampah yang sulit untuk membusuk dan tidak bisa terurai. Jika tidak dikelola dengan baik, maka sampah ini bisa merusak ekosistem hewan dan manusia. Namun, keberadaan sampah ini bisa diakali dengan cari didaur ulang. Contoh sampah anorganik meliputi plastik, karton, logam, dan sebagainya.", "insampWord":"Sampah Anorganik", "imgURL":"https://raw.githubusercontent.com/ahmadaamin12/InsampFile/filedata/imageInsamp/anorganik.jpg"},
@@ -22,7 +22,7 @@
 	},
 	{
 		"kategori": "Jenis Sampah Berdasarkan Bentuk",
-		"background": "#00cc00",
+		"background": "#ffffff",
 		"wordList": [
 			{"kalimat":"Sampah padat adalah sampah selain kotoran manusia, urine, dan sampah cair. Sampah organik dan anorganik bisa dikelompokan ke dalam jenis sampah yang satu ini.", "insampWord":"Sampah Padat", "imgURL":"https://raw.githubusercontent.com/ahmadaamin12/InsampFile/filedata/imageInsamp/padat.jpg"},
 			{"kalimat":"Sampah cair dibagi menjadi 2 kategori, yakni limbah hitam dan limbah rumah tangga. Limbah hitam dalah sampah yang dihasilkan dari toilet. Sampah yang satu ini mengandung patogen yang sangat berbahaya untuk manusia. Sedangkan limbah rumah tangga adalah sampah yang dihasilkan dari dapur, kamar mandi, dan tempat cucian. Berbeda dengan limbah hitam, keberadaan kandungan patogen pada sampah ini masih berupa kemungkinan.", "insampWord":"Sampah Cair", "imgURL":"https://raw.githubusercontent.com/ahmadaamin12/InsampFile/filedata/imageInsamp/cair.jpg"}
@@ -30,7 +30,7 @@
 	},
 	{
 		"kategori": "Prinsip 4R untuk Mengolah Sampah di Rumah",
-		"background": "#ff6600",
+		"background": "#ffffff",
 		"wordList": [
 			{"kalimat":"Usahakan untuk menggunakan barang ramah lingkungan yang bisa digunakan lebih dari sekali pemakaian. Hal ini bisa dilakukan dengan cara-cara sederhana seperti: Ganti kantong keresek dengan tas belanja. Hindari penggunaan styrofoam.", "insampWord":"Replace (mengganti)", "imgURL":"https://raw.githubusercontent.com/ahmadaamin12/InsampFile/filedata/imageInsamp/replace.jpeg"},
 			{"kalimat":"Mulailah untuk mengurangi produksi sampah yang dihasilkan oleh diri sendiri. Untuk melakukannya, kamu bisa mepraktikkan cara berikut: Bawa tas belanja sendiri untuk mengurangi sampah kantong plastik. Membawa botol minuman daripada membeli minuman dalam kemasan.", "insampWord":"Reduce (mengurangi)", "imgURL":"https://raw.githubusercontent.com/ahmadaamin12/InsampFile/filedata/imageInsamp/reduce.jpg"},
