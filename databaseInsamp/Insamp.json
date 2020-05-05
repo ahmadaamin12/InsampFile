@@ -1,7 +1,7 @@
 [
 	{
 		"kategori": "Jenis Sampah Berdasarkan Sumber",
-		"background": "#ffff00",
+		"background": "#ff0000",
 		"wordList": [
 			{"kalimat":"sampah hasil dari pencernaan manusia, seperti feses dan urin.", "insampWord":"Sampah dari manusia", "imgURL": "https://raw.githubusercontent.com/ahmadaamin12/InsampFile/filedata/imageInsamp/sampahManusia.jpg"},
 			{"kalimat":"sampah yang diproduksi di kehidupan liar dan melalui proses daur ulang alami, seperti daun-daun kering di hutan yang terurai menjadi tanah.", "insampWord":"Sampah dari alam", "imgURL":"https://raw.githubusercontent.com/ahmadaamin12/InsampFile/filedata/imageInsamp/sampahAlam.jpg"},
@@ -22,7 +22,7 @@
 	},
 	{
 		"kategori": "Jenis Sampah Berdasarkan Bentuk",
-		"background": "#99ff99",
+		"background": "#00cc00",
 		"wordList": [
 			{"kalimat":"Sampah padat adalah sampah selain kotoran manusia, urine, dan sampah cair. Sampah organik dan anorganik bisa dikelompokan ke dalam jenis sampah yang satu ini.", "insampWord":"Sampah Padat", "imgURL":"https://raw.githubusercontent.com/ahmadaamin12/InsampFile/filedata/imageInsamp/padat.jpg"},
 			{"kalimat":"Sampah cair dibagi menjadi 2 kategori, yakni limbah hitam dan limbah rumah tangga. Limbah hitam dalah sampah yang dihasilkan dari toilet. Sampah yang satu ini mengandung patogen yang sangat berbahaya untuk manusia. Sedangkan limbah rumah tangga adalah sampah yang dihasilkan dari dapur, kamar mandi, dan tempat cucian. Berbeda dengan limbah hitam, keberadaan kandungan patogen pada sampah ini masih berupa kemungkinan.", "insampWord":"Sampah Cair", "imgURL":"https://raw.githubusercontent.com/ahmadaamin12/InsampFile/filedata/imageInsamp/cair.jpg"}
